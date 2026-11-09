@@ -1,0 +1,5 @@
+google-genai
+mcp
+python-dotenv
+pydantic
+requests
